@@ -20,3 +20,5 @@ _italic_
 
 ***
 HR
+
+![Penguines](image/Penguins.jpg)
